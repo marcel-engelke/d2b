@@ -1,0 +1,5 @@
+This is a simple program for transforming integers into their binary representation.
+
+It was made to showcase two different algorithms, one supposedly faster than the other one.
+
+It turns out that the first method (subtracting powers of 2) is actually faster than the "fast" one (bit shift).
